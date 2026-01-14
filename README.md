@@ -88,15 +88,16 @@ Projede temel OOP prensipleri uygulanmıştır:
 -Github sayfasında bir diyagram.png dosyası bulunmaktadır. Bu png dosyası, projenin geliştirme aşamasında izlenilen yol haritasını ve temel özelliklerini görsel olarak özetlemektedir. 
 -Diyagram projenin son halini yansıtmayabilir ancak projenin genel yapısı ve işleyişi hakkında fikir vermektedir.
 
----
 
-## Kurulum ve Çalıştırma
+
+# Kurulum ve Çalıştırma
 1. Projeler dosyası bilgisayara indirilir veya klonlanır    
 2. Data Base'e bağlanılabilmesi için vpn ile vpn.uludag.edu.tr adresine bağlanılır 
 3. Proje Visual Studio ile açılır 
 
----
+#Youtube
+Projenin tanıtım videosuna [buradan ulaşabilirsiniz](https://youtu.be/TqF7h4yATlo).
 
-## Not
+# Not
 Bu proje eğitim amaçlı geliştirilmiştir.
 Kullanıcı şifreleri 12345 olarak belirlenmiştir.
