@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Krypton.Toolkit/100.25.11.328": {
+        "runtime": {
+          "lib/net8.0-windows7.0/Krypton.Toolkit.dll": {
+            "assemblyVersion": "100.25.11.328",
+            "fileVersion": "100.25.11.328"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Krypton.Toolkit/100.25.11.328": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rIk95XzDwDY6EopwuQ2DmHwSn5HMTIRZqcRctCZLKh811vCJrtDbKLpDL8ah/3g1fV+f4COF2v/0k6RvMlclqg==",
+      "path": "krypton.toolkit/100.25.11.328",
+      "hashPath": "krypton.toolkit.100.25.11.328.nupkg.sha512"
+    }
+  }
+}

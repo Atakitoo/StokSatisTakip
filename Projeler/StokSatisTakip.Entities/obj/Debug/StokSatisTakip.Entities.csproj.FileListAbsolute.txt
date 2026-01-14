@@ -1,0 +1,12 @@
+C:\Users\Acer\Desktop\Projeler\StokSatisTakip.Entities\bin\Debug\StokSatisTakip.Entities.dll
+C:\Users\Acer\Desktop\Projeler\StokSatisTakip.Entities\bin\Debug\StokSatisTakip.Entities.pdb
+C:\Users\Acer\Desktop\Projeler\StokSatisTakip.Entities\obj\Debug\StokSatisTakip.Entities.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Projeler\StokSatisTakip.Entities\obj\Debug\StokSatisTakip.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Projeler\StokSatisTakip.Entities\obj\Debug\StokSatisTakip.Entities.dll
+C:\Users\Acer\Desktop\Projeler\StokSatisTakip.Entities\obj\Debug\StokSatisTakip.Entities.pdb
+C:\Users\Atakan\Desktop\Projeler\StokSatisTakip.Entities\bin\Debug\StokSatisTakip.Entities.dll
+C:\Users\Atakan\Desktop\Projeler\StokSatisTakip.Entities\bin\Debug\StokSatisTakip.Entities.pdb
+C:\Users\Atakan\Desktop\Projeler\StokSatisTakip.Entities\obj\Debug\StokSatisTakip.Entities.csproj.AssemblyReference.cache
+C:\Users\Atakan\Desktop\Projeler\StokSatisTakip.Entities\obj\Debug\StokSatisTakip.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Atakan\Desktop\Projeler\StokSatisTakip.Entities\obj\Debug\StokSatisTakip.Entities.dll
+C:\Users\Atakan\Desktop\Projeler\StokSatisTakip.Entities\obj\Debug\StokSatisTakip.Entities.pdb

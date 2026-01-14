@@ -1,0 +1,149 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Atakan\\Desktop\\Projeler\\StokSatisTakip.UI\\StokSatisTakip.UI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Atakan\\Desktop\\Projeler\\StokSatisTakip.BLL\\StokSatisTakip.BLL.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Atakan\\Desktop\\Projeler\\StokSatisTakip.BLL\\StokSatisTakip.BLL.csproj",
+        "projectName": "StokSatisTakip.BLL",
+        "projectPath": "C:\\Users\\Atakan\\Desktop\\Projeler\\StokSatisTakip.BLL\\StokSatisTakip.BLL.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Atakan\\Desktop\\Projeler\\StokSatisTakip.DAL\\StokSatisTakip.DAL.csproj": {
+                "projectPath": "C:\\Users\\Atakan\\Desktop\\Projeler\\StokSatisTakip.DAL\\StokSatisTakip.DAL.csproj"
+              },
+              "C:\\Users\\Atakan\\Desktop\\Projeler\\StokSatisTakip.Entities\\StokSatisTakip.Domain.csproj": {
+                "projectPath": "C:\\Users\\Atakan\\Desktop\\Projeler\\StokSatisTakip.Entities\\StokSatisTakip.Domain.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Atakan\\Desktop\\Projeler\\StokSatisTakip.DAL\\StokSatisTakip.DAL.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Atakan\\Desktop\\Projeler\\StokSatisTakip.DAL\\StokSatisTakip.DAL.csproj",
+        "projectName": "StokSatisTakip.DAL",
+        "projectPath": "C:\\Users\\Atakan\\Desktop\\Projeler\\StokSatisTakip.DAL\\StokSatisTakip.DAL.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Atakan\\Desktop\\Projeler\\StokSatisTakip.Entities\\StokSatisTakip.Domain.csproj": {
+                "projectPath": "C:\\Users\\Atakan\\Desktop\\Projeler\\StokSatisTakip.Entities\\StokSatisTakip.Domain.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Atakan\\Desktop\\Projeler\\StokSatisTakip.Entities\\StokSatisTakip.Domain.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Atakan\\Desktop\\Projeler\\StokSatisTakip.Entities\\StokSatisTakip.Domain.csproj",
+        "projectName": "StokSatisTakip.Domain",
+        "projectPath": "C:\\Users\\Atakan\\Desktop\\Projeler\\StokSatisTakip.Entities\\StokSatisTakip.Domain.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Atakan\\Desktop\\Projeler\\StokSatisTakip.UI\\StokSatisTakip.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Atakan\\Desktop\\Projeler\\StokSatisTakip.UI\\StokSatisTakip.UI.csproj",
+        "projectName": "StokSatisTakip.UI",
+        "projectPath": "C:\\Users\\Atakan\\Desktop\\Projeler\\StokSatisTakip.UI\\StokSatisTakip.UI.csproj",
+        "packagesPath": "C:\\Users\\Atakan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Atakan\\Desktop\\Projeler\\StokSatisTakip.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Atakan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Atakan\\Desktop\\Projeler\\StokSatisTakip.BLL\\StokSatisTakip.BLL.csproj": {
+                "projectPath": "C:\\Users\\Atakan\\Desktop\\Projeler\\StokSatisTakip.BLL\\StokSatisTakip.BLL.csproj"
+              },
+              "C:\\Users\\Atakan\\Desktop\\Projeler\\StokSatisTakip.Entities\\StokSatisTakip.Domain.csproj": {
+                "projectPath": "C:\\Users\\Atakan\\Desktop\\Projeler\\StokSatisTakip.Entities\\StokSatisTakip.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Krypton.Toolkit": {
+              "target": "Package",
+              "version": "[100.25.11.328, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
