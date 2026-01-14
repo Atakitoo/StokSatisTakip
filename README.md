@@ -95,7 +95,7 @@ Projede temel OOP prensipleri uygulanmıştır:
 2. Data Base'e bağlanılabilmesi için vpn ile vpn.uludag.edu.tr adresine bağlanılır 
 3. Proje Visual Studio ile açılır 
 
-#Youtube
+# Youtube 
 Projenin tanıtım videosuna [buradan ulaşabilirsiniz](https://youtu.be/TqF7h4yATlo).
 
 # Not
